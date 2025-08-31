@@ -13,7 +13,7 @@
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gadalin-artyom/task-manager-api
 cd task_manager
 ```
 
